@@ -1,7 +1,6 @@
 from genericpath import isfile
 import os;
-
-
+ 
 search = "document"
 replace = "file"
 type_filter = ".txt"
